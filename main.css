@@ -1,0 +1,33 @@
+body {
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+    margin: 0;
+    padding: 0;
+    background-color: whitesmoke;
+    color: black;
+}
+
+header {
+    background: darkslategrey;
+    color: white;
+    text-align: center;
+    padding: 1rem;
+}
+
+main {
+    margin: 2rem auto;
+    width: 100%;
+    max-width: 800px;
+}
+
+p{
+    font-size: large;
+}
+
+section {
+    margin-bottom: 2rem;
+    padding: 1rem;
+    background: white;
+    border-radius: 5px;
+    box-shadow: 0 1px 5px black;
+}
